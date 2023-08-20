@@ -1,0 +1,54 @@
+body{
+  padding-bottom: 1000px;
+}
+.first{
+  background-color:rgb(248, 243, 243);
+  
+
+}
+
+#heading{
+text-align: center;
+font-size: 35px;
+}
+.paragraph1{
+color: black;
+font-size: 16px;
+font-family:'Times New Roman', Times, serif;
+text-align: justify;
+line-height: 22px;
+margin-left: 22px;
+margin-right: 20px;
+}
+#strong{
+font-size: 18px;
+}
+#bold{
+font-size: 18px;
+}
+.para1{
+color: blue;
+font-size: 17px;
+font-family:'Times New Roman', Times, serif;
+text-align:justify;
+line-height: 22px;
+
+}
+#red{
+color: red;
+font-size: 17px;
+}
+.imgs{
+margin-right: 40px;
+}
+.unorderdlist{
+color: red;
+line-height: 30px;
+}
+.orderd-list{
+color: black;
+line-height: 30px;
+}
+.margin{
+margin-left: 20px;
+}
